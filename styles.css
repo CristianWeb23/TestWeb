@@ -6,7 +6,7 @@
 }
 nav {
     background: #1a1a1a;
-    max-width: 1349px;
+    width: 100%;
     padding: 10px 10%;
     display: flex;
     align-items: center;
